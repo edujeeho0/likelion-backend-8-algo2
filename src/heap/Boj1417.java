@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 
 // https://www.acmicpc.net/problem/1417
-public class Prob1417 {
+public class Boj1417 {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         // 총 후보자들
